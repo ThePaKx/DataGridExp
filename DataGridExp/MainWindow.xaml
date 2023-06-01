@@ -29,7 +29,7 @@
                 Height="25"
                 Margin="10,0,0,0"
                 Command="{Binding QueryCommand}"
-                Content="查找" />
+                Content="查找 " />
             <Button
                 Width="70"
                 Height="25"
